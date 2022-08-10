@@ -1,3 +1,3 @@
 <?php
-echo 'Helloowrld 1 test test test';
+echo 'This is the master plan';
 ?>
